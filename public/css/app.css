@@ -1,0 +1,13 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: linear-gradient(300deg, #eeffff 0, #bdf2ff 25%, #84ccef 50%, #42a7d4 75%, #0087bd 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
